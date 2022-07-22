@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stspro
 - 👀 I’m interested in ...DevOps CI/CD and AWS
-- 🌱 I’m currently enriching DecOps Processes ...
+- 🌱 I’m currently enriching DevOps Processes ...
 
 <!---
 stspro/stspro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
