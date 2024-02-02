@@ -17,3 +17,4 @@ Typical usage on a Window OS(Open Windows Console) :
    * terraform apply -var-file="terraform.tfvars"
   6) Once validated and tested, Run the following terraform command to teardown the AWS infrastructure :
    * terraform destroy -var-file="terraform.tfvars"
+
