@@ -1,3 +1,4 @@
+
 # security group for EC2 instances
 resource "aws_security_group" "docker_demo_ec2" {
   name        = "docker-nginx-demo-ec2"
