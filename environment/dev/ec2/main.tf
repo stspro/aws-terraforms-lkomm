@@ -9,3 +9,4 @@
   instance_tags = var.instance_tags
   
 }
+
