@@ -22,6 +22,8 @@ resource "aws_instance" "my-instance" {
 }
 
 
+
+
 resource "aws_security_group" "secuitygroup_id" {
   vpc_id = var.vpc_id
 
